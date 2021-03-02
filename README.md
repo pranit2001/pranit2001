@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[instagram](@https://www.instagram.com/invites/contact/?i=1w1mrxa2qwg0u&utm_content=546kjku)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i do good comeady  
--->
+--!>
