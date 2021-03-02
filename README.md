@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...computer science basics and ui ux design .
-- 🌱 I’m currently learning ...c++ language and ui ux basics .
-- 👯 I’m looking to collaborate on ...microsoft student learn ambassador .
-- 🤔 I’m looking for help with ... data structers and algorithms . 
+- 🔭 I’m currently working on ...computer science basics and ui ux design
+- 🌱 I’m currently learning ...c++ language and ui ux basics 
+- 👯 I’m looking to collaborate on ...microsoft student learn ambassador 
+- 🤔 I’m looking for help with ... data structers and algorithms
 - 💬 Ask me about ...anything 
 - 📫 How to reach me: ...[twitter](@pranitkharat1)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...i do good comeady . 
+- ⚡ Fun fact: ...i do good comeady  
 -->
