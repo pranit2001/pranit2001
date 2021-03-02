@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pranit-kharat-5268a5201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranit" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pranit.kharat.37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranit kharat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=qoc6zljlsh0a&utm_content=546kjku" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranit-k__"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=qoc6zljlsh0a&utm_content=546kjku" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranit kharat"  height="30" width="40" /></a>
 <a href = "mail to: pranitkharat143@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
@@ -36,8 +36,8 @@
 ✔ I’m currently learning **web development** & **android development**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **data structures and algorithms**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Ask me about anything, **I am happy to help, only if the ball is in my court!😉**<br>
+✔ Fun fact : **At The time of Stress coding, I use to be in half sleeping mode**<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
@@ -51,7 +51,6 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
 
 
