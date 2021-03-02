@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...microsoft student learn ambassador 
 - 🤔 I’m looking for help with ... data structers and algorithms
 - 💬 Ask me about ...anything 
-- 📫 How to reach me: ...[twitter](@pranitkharat1)
+- 📫 How to reach me: ...[instagram](@pranit_k__)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i do good comeady  
 -->
