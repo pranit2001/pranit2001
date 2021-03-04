@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pranit-kharat-5268a5201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranit" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pranit.kharat.37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranit kharat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=qoc6zljlsh0a&utm_content=546kjku" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranit kharat"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=qoc6zljlsh0a&utm_content=546kjku" target="blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranit kharat"  height="30" width="40" /></a>
 <a href = "mail to: pranitkharat143@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
